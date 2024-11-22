@@ -1,0 +1,3 @@
+[submodule "lib/granular_throttle"]
+	path = lib/granular_throttle
+	url = https://github.com/petereon/granular_throttle.git
